@@ -12,8 +12,6 @@ Completed April, 2022.
 - Applied Text Mining in Python
 - Applied Social Network Analysis in Python
 
-![](/images/applied_data_science_w_python_james_kowalik.png)
-
 <br />
 
 ### Data Science By Johns Hopkins University
@@ -33,8 +31,6 @@ Completed October, 2022.
 - Practical Machine Learning
 - Statistical Inference
 
-![](/images/data_science_johns_hopkins_james_kowalik.png)
-
 <br />
 
 ### Learn SQL Basics for Data Science Specialization By University of California Davis
@@ -43,6 +39,7 @@ Completed October, 2022.
 
 - SQL for Data Science
 - Data Wrangling, Analysis and AB Testing with SQL
+
 <br />
 
 ### Data Science Professional Certificate By HarvardX
